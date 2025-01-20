@@ -58,5 +58,14 @@
       "path": "/Library/Application Support/Firefox",
       "icon": "firefox-dev.icns"
     }
+  ],
+  "orion": [
+    {
+      "app": "/Applications/Orion.app",
+      "name": "ORION",
+      "title": "Orion",
+      "path": "Applications/Orion/Orion Profiles",
+      "icon": "orion.icns"
+    }
   ]
 }
